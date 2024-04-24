@@ -18,7 +18,7 @@
         }, 
         {
          "compression":"zlib",
-         "data":"eJxjZmBgYB4EmIGG6gmpHWi7aQ3IsROfenLcT0\/\/Ems3LeIB3Sxa201MPI3aTV27iXEXPewmNq1RE5Aa5gNlNzMONrUBpf6mRD+5eqkRHvSuw7DZO4rpiwGlCQMN",
+         "data":"eJxjZmBgYB4EmIGG6gmpHWi7aQ3IsROfenLcT0\/\/Ems3LeIB3Sxa201MPA2E3Qw4xIeD3YTAYEtr1ASkprWBspsZB5vagFJ\/U6KfXL3UCA9612HY7B3F9MUAdPEDBA==",
          "encoding":"base64",
          "height":21,
          "id":96,
@@ -84,25 +84,11 @@
          "layers":[
                 {
                  "compression":"zlib",
-                 "data":"eJybzMjAcH8A8BQgvgvEK5hw4248mFQ9yGruQu3GZz6tMMzugQCjdo\/aPWr3qN2jdo\/aPdTtXjNA7Za1A9RuGAwYAC4Tlqk=",
+                 "data":"eJybzMjAcH8A8BQgvgvEK5hw4248mFQ9yGruQu3GZz6tMMzugQCjdo\/aTW\/7R+2mr72jdo\/aPRLsXjNA7Za1A9RuGAwYAEZUlA8=",
                  "encoding":"base64",
                  "height":21,
                  "id":75,
                  "name":"wall",
-                 "opacity":1,
-                 "type":"tilelayer",
-                 "visible":true,
-                 "width":31,
-                 "x":0,
-                 "y":0
-                }, 
-                {
-                 "compression":"zlib",
-                 "data":"eJxjYBgc4DIL7dQTUvuGRLtJUU+q2aNgFIyCUTAKRsEoGAWDCQAAHtMFVg==",
-                 "encoding":"base64",
-                 "height":21,
-                 "id":70,
-                 "name":"door",
                  "opacity":1,
                  "type":"tilelayer",
                  "visible":true,
@@ -126,7 +112,7 @@
                 }, 
                 {
                  "compression":"zlib",
-                 "data":"eJxjYBhYsECAgWGhACabGupJNXsUjIJRMApGwSgYBaNgFKACAE6yCEc=",
+                 "data":"eJxjYBg8YIEAA8NCAeLVEFJPjHmjYBSMglEwCkbBKBgFowA3AAA2BAWF",
                  "encoding":"base64",
                  "height":21,
                  "id":89,
@@ -140,11 +126,25 @@
                 }, 
                 {
                  "compression":"zlib",
-                 "data":"eJxjYBi8gEuIgYFbiHbq8QEpoDnSJJhFqvpRMApGwSgYBaNgFIyCoQAAfooBJQ==",
+                 "data":"eJxjYBhYkCzEwJAihF0uAyieCcRZOOTRARdQHTceteh2FQPZJTjUVwDFK4G4iki7pYDqpPGoxWfXKBgFo2AUjIJRMApGwWAFAM97B5E=",
                  "encoding":"base64",
                  "height":21,
                  "id":95,
                  "name":"medaille",
+                 "opacity":1,
+                 "type":"tilelayer",
+                 "visible":true,
+                 "width":31,
+                 "x":0,
+                 "y":0
+                }, 
+                {
+                 "compression":"zlib",
+                 "data":"eJxjYBiaYPdAO2AUjIJRMApGwSgYBaNgBAAA8kIAvA==",
+                 "encoding":"base64",
+                 "height":21,
+                 "id":97,
+                 "name":"horloge",
                  "opacity":1,
                  "type":"tilelayer",
                  "visible":true,
@@ -361,7 +361,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":97,
+ "nextlayerid":98,
  "nextobjectid":20,
  "orientation":"orthogonal",
  "properties":[
@@ -533,34 +533,6 @@
          "tilecount":273,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "columns":37,
-         "firstgid":2956,
-         "image":"..\/..\/..\/Downloads\/Ikea Home Items v1.0.0\/Ikea Home Items - Preview.png",
-         "imageheight":2300,
-         "imagewidth":1200,
-         "margin":0,
-         "name":"Ikea Home Items - Preview",
-         "spacing":0,
-         "tilecount":0,
-         "tileheight":32,
-         "tilewidth":32,
-         "transparentcolor":"#ff00ff"
-        }, 
-        {
-         "columns":37,
-         "firstgid":2956,
-         "image":"..\/..\/..\/Downloads\/Ikea Home Items v1.0.0\/Ikea Home Items - Preview.png",
-         "imageheight":2300,
-         "imagewidth":1200,
-         "margin":0,
-         "name":"Ikea Home Items - Preview",
-         "spacing":0,
-         "tilecount":0,
-         "tileheight":32,
-         "tilewidth":32,
-         "transparentcolor":"#ff00ff"
         }, 
         {
          "columns":16,
