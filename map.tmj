@@ -1307,6 +1307,20 @@
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#ff00ff"
+        }, 
+        {
+         "columns":14,
+         "firstgid":5078,
+         "image":"tilesets\/sofa.png",
+         "imageheight":768,
+         "imagewidth":462,
+         "margin":0,
+         "name":"sofa",
+         "spacing":0,
+         "tilecount":336,
+         "tileheight":32,
+         "tilewidth":32,
+         "transparentcolor":"#ff00ff"
         }],
  "tilewidth":32,
  "type":"map",
